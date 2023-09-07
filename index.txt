@@ -1,0 +1,17 @@
+Principais comandos GIT
+
+1. "git status": Este comando verifica o status atual do seu repositório local, mostrando as alterações não rastreadas, as alterações pendentes de commit e outras informações relevantes.
+
+2. "git add": Use o comando "git add" para adicionar as alterações desejadas ao seu "staging area", preparando-as para serem incluídas no próximo commit. Você pode adicionar arquivos específicos ou usar "git add ." para adicionar todos os arquivos modificados.
+
+3. "git commit": Após usar o "git add" para preparar as alterações, utilize o "git commit" para criar um novo commit com uma mensagem explicativa que descreva as mudanças realizadas.
+
+4. "git push": Este comando é usado para enviar os commits locais para um repositório remoto, geralmente no GitHub, GitLab, Bitbucket, ou outro serviço semelhante. Isso atualiza o repositório remoto com as alterações feitas localmente.
+
+5. "git checkout": O comando "git checkout" permite alternar entre branches ou commits diferentes no seu repositório. Pode ser usado para criar ou mudar para uma nova branch, ou para voltar a um commit anterior.
+
+6. "git merge": Use o comando "git merge" para combinar as alterações de uma branch em outra. Isso é comumente usado quando você quer integrar o trabalho feito em uma branch de desenvolvimento de volta à branch principal (geralmente a "master" ou "main").
+
+7. "git pull": O comando "git pull" é usado para buscar as alterações do repositório remoto e mesclá-las automaticamente com a sua branch local. É equivalente a executar "git fetch" seguido de "git merge".
+
+8. "git remote": O comando "git remote" é usado para listar os repositórios remotos vinculados ao seu repositório local. Você pode ver os URLs dos repositórios remotos configurados e outras informações relevantes.
