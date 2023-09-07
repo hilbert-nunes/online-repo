@@ -2,5 +2,6 @@
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
    <H1> VERSIONAMENTO - GIT </H1>
+   <P>Testando git alias</P>
 </BODY>
 </HTML>
